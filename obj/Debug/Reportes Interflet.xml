@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReportesInterflet
+</name>
+</assembly>
+<members>
+<member name="T:Interflet.ProduccionInterfletdbDataSet3.Cat_DestinoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet3.Cat_DestinoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet3.Cat_DestinoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet3TableAdapters.Cat_DestinoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet1.Cat_DestinoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet1.Cat_DestinoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet1.Cat_DestinoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet1TableAdapters.Cat_DestinoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Interflet.Interflet_ConceptosValores">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.Interflet_ConceptosValoresTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet2.trafico_plazaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet2.trafico_plazaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet2.trafico_plazaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet2TableAdapters.trafico_plazaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet5TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Interflet.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Interflet.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Interflet.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet.Cat_ConceptosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet.Cat_ConceptosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet.Cat_ConceptosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSetTableAdapters.Cat_ConceptosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet4.UP_Consulta_CostoDieselDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet4.UP_Consulta_CostoDieselRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet4.UP_Consulta_CostoDieselRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Interflet.ProduccionInterfletdbDataSet4TableAdapters.UP_Consulta_CostoDieselTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Mapa de Ubicacion de Viajes</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+<style type="text/css">
+html { height: 100% }
+body { height: 100%; margin: 0px; padding: 0px }
+#map { height: 100% }
+</style>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false">
+</script>
+<script type="text/javascript">
+function load() {
+var myOptions = { 
+center: new google.maps.LatLng(25.68591,-100.47318),
+zoom: 8,
+mapTypeId: google.maps.MapTypeId.HYBRID
+};
+var map = new google.maps.Map(document.getElementById("map"),
+myOptions);
+Viaje0 = new google.maps.Marker({
+position: new google.maps.LatLng(25.36261,-100.10097),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-200'
+	});
+attachMessage(Viaje0 , 'T-200','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje1 = new google.maps.Marker({
+position: new google.maps.LatLng(25.73548,-100.37517),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-243'
+	});
+attachMessage(Viaje1 , 'T-243','INDUSTRIA DEL ALCALI, S.A. DE C.V.' );
+Viaje2 = new google.maps.Marker({
+position: new google.maps.LatLng(25.14066,-99.83581),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-254'
+	});
+attachMessage(Viaje2 , 'T-254','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje3 = new google.maps.Marker({
+position: new google.maps.LatLng(25.76182,-100.56796),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-189'
+	});
+attachMessage(Viaje3 , 'T-189','ENERTEC EXPORTS, S. DE R.L. DE C.V.' );
+Viaje4 = new google.maps.Marker({
+position: new google.maps.LatLng(25.22228,-99.93257),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-257'
+	});
+attachMessage(Viaje4 , 'T-257','GRANMARK, S.A. DE C.V.' );
+Viaje5 = new google.maps.Marker({
+position: new google.maps.LatLng(22.3229,-100.80208),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-259'
+	});
+attachMessage(Viaje5 , 'T-259','VALEO SISTEMAS ELECTRICOS, S.A. DE C.V. ' );
+Viaje6 = new google.maps.Marker({
+position: new google.maps.LatLng(24.94249,-99.6982),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'C-12'
+	});
+attachMessage(Viaje6 , 'C-12','WHIRLPOOL INTERNACIONAL, S. DE R.L. DE C.V.' );
+Viaje7 = new google.maps.Marker({
+position: new google.maps.LatLng(25.68591,-100.47318),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-260'
+	});
+attachMessage(Viaje7 , 'T-260','DAL TILE MEXICO, S. DE R.L. DE C.V.' );
+Viaje8 = new google.maps.Marker({
+position: new google.maps.LatLng(25.89163,-100.24527),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-258'
+	});
+attachMessage(Viaje8 , 'T-258','MERITOR MANUFACTURING DE MEXICO, S.A. DE C.V.' );
+Viaje9 = new google.maps.Marker({
+position: new google.maps.LatLng(25.67262,-100.44465),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-210'
+	});
+attachMessage(Viaje9 , 'T-210','QUIMICA LAMBERTI DE MEXICO, S.A. DE C.V.' );
+Viaje10 = new google.maps.Marker({
+position: new google.maps.LatLng(25.63249,-100.2722),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-255'
+	});
+attachMessage(Viaje10 , 'T-255','SISTEMAS AUTOMOTRICES DE MEXICO, S.A. DE C.V.' );
+Viaje11 = new google.maps.Marker({
+position: new google.maps.LatLng(20.94282,-100.41951),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-241'
+	});
+attachMessage(Viaje11 , 'T-241','BTICINO DE MEXICO, S.A. DE C.V.' );
+Viaje12 = new google.maps.Marker({
+position: new google.maps.LatLng(25.29818,-100.04899),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-196'
+	});
+attachMessage(Viaje12 , 'T-196','VITRO AUTOMOTRIZ, S.A. DE C.V.' );
+Viaje13 = new google.maps.Marker({
+position: new google.maps.LatLng(22.44982,-97.88891),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-183'
+	});
+attachMessage(Viaje13 , 'T-183','FLUIDOS INDUSTRIALES MEXICANOS, S.A. DE C.V.' );
+Viaje14 = new google.maps.Marker({
+position: new google.maps.LatLng(25.77118,-100.56206),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-180'
+	});
+attachMessage(Viaje14 , 'T-180','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje15 = new google.maps.Marker({
+position: new google.maps.LatLng(25.65901,-100.13368),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-256'
+	});
+attachMessage(Viaje15 , 'T-256','MERITOR MANUFACTURING DE MEXICO, S.A. DE C.V.' );
+Viaje16 = new google.maps.Marker({
+position: new google.maps.LatLng(22.61062,-100.55427),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-173'
+	});
+attachMessage(Viaje16 , 'T-173','SACMI DE MEXICO, S.A. DE C.V.' );
+Viaje17 = new google.maps.Marker({
+position: new google.maps.LatLng(22.41661,-97.889),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-252'
+	});
+attachMessage(Viaje17 , 'T-252','BASF MEXICANA, S.A. DE C.V.' );
+Viaje18 = new google.maps.Marker({
+position: new google.maps.LatLng(22.16126,-100.83071),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-250'
+	});
+attachMessage(Viaje18 , 'T-250','BTICINO DE MEXICO, S.A. DE C.V.' );
+Viaje19 = new google.maps.Marker({
+position: new google.maps.LatLng(22.18522,-98.28525),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-186'
+	});
+attachMessage(Viaje19 , 'T-186','CEMEX MEXICO, S.A. DE C.V.' );
+Viaje20 = new google.maps.Marker({
+position: new google.maps.LatLng(22.09544,-100.74593),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-181'
+	});
+attachMessage(Viaje20 , 'T-181','LEISER S DE RL DE CV' );
+Viaje21 = new google.maps.Marker({
+position: new google.maps.LatLng(25.71071,-100.34423),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-211'
+	});
+attachMessage(Viaje21 , 'T-211','INDUSTRIA DEL ALCALI, S.A. DE C.V.' );
+Viaje22 = new google.maps.Marker({
+position: new google.maps.LatLng(25.76622,-100.55042),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-253'
+	});
+attachMessage(Viaje22 , 'T-253','INDUSTRIA DEL ALCALI, S.A. DE C.V.' );
+Viaje23 = new google.maps.Marker({
+position: new google.maps.LatLng(25.09305,-99.79802),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-246'
+	});
+attachMessage(Viaje23 , 'T-246','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje24 = new google.maps.Marker({
+position: new google.maps.LatLng(25.59612,-100.02702),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-109'
+	});
+attachMessage(Viaje24 , 'T-109','CERVECERIA CUAUHTEMOC MOCTEZUMA, S.A. DE C.V.' );
+Viaje25 = new google.maps.Marker({
+position: new google.maps.LatLng(22.21424,-98.36969),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-112'
+	});
+attachMessage(Viaje25 , 'T-112','CEMEX MEXICO, S.A. DE C.V.' );
+Viaje26 = new google.maps.Marker({
+position: new google.maps.LatLng(25.7432,-100.1129),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-208'
+	});
+attachMessage(Viaje26 , 'T-208','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje27 = new google.maps.Marker({
+position: new google.maps.LatLng(25.7432,-100.1126),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-130'
+	});
+attachMessage(Viaje27 , 'T-130','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje28 = new google.maps.Marker({
+position: new google.maps.LatLng(25.7371,-100.08578),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-237'
+	});
+attachMessage(Viaje28 , 'T-237','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje29 = new google.maps.Marker({
+position: new google.maps.LatLng(22.44971,-97.88963),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-182'
+	});
+attachMessage(Viaje29 , 'T-182','MERITOR MANUFACTURING DE MEXICO, S.A. DE C.V.' );
+Viaje30 = new google.maps.Marker({
+position: new google.maps.LatLng(21.98323,-98.96027),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-111'
+	});
+attachMessage(Viaje30 , 'T-111','CEMEX MEXICO, S.A. DE C.V.' );
+Viaje31 = new google.maps.Marker({
+position: new google.maps.LatLng(24.18225,-99.30936),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-249'
+	});
+attachMessage(Viaje31 , 'T-249','CERVECERIA CUAUHTEMOC MOCTEZUMA, S.A. DE C.V.' );
+Viaje32 = new google.maps.Marker({
+position: new google.maps.LatLng(24.18223,-99.30938),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-248'
+	});
+attachMessage(Viaje32 , 'T-248','CERVECERIA CUAUHTEMOC MOCTEZUMA, S.A. DE C.V.' );
+Viaje33 = new google.maps.Marker({
+position: new google.maps.LatLng(21.98318,-98.96036),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-176'
+	});
+attachMessage(Viaje33 , 'T-176','CEMEX MEXICO, S.A. DE C.V.' );
+Viaje34 = new google.maps.Marker({
+position: new google.maps.LatLng(24.1543,-99.28217),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-239'
+	});
+attachMessage(Viaje34 , 'T-239','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje35 = new google.maps.Marker({
+position: new google.maps.LatLng(22.85561,-99.84094),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-185'
+	});
+attachMessage(Viaje35 , 'T-185','LEISER S DE RL DE CV' );
+Viaje36 = new google.maps.Marker({
+position: new google.maps.LatLng(22.88832,-99.81341),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-207'
+	});
+attachMessage(Viaje36 , 'T-207','ROBERT BOSCH MEXICO SISTEMAS AUTOMOTRICES S.A. DE C.V.' );
+Viaje37 = new google.maps.Marker({
+position: new google.maps.LatLng(24.89611,-99.68267),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-251'
+	});
+attachMessage(Viaje37 , 'T-251','MABE MEXICO S DE RL DE CV' );
+Viaje38 = new google.maps.Marker({
+position: new google.maps.LatLng(22.0778,-100.89188),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-240'
+	});
+attachMessage(Viaje38 , 'T-240','MABE MEXICO S DE RL DE CV' );
+Viaje39 = new google.maps.Marker({
+position: new google.maps.LatLng(20.76885,-100.44318),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-198'
+	});
+attachMessage(Viaje39 , 'T-198','BTICINO DE MEXICO, S.A. DE C.V.' );
+Viaje40 = new google.maps.Marker({
+position: new google.maps.LatLng(22.86291,-99.83478),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-209'
+	});
+attachMessage(Viaje40 , 'T-209','SACMI DE MEXICO, S.A. DE C.V.' );
+Viaje41 = new google.maps.Marker({
+position: new google.maps.LatLng(23.70571,-98.99126),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-191'
+	});
+attachMessage(Viaje41 , 'T-191','CERVECERIA CUAUHTEMOC MOCTEZUMA, S.A. DE C.V.' );
+Viaje42 = new google.maps.Marker({
+position: new google.maps.LatLng(22.44993,-97.8869),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-123'
+	});
+attachMessage(Viaje42 , 'T-123','CERVECERIA CUAUHTEMOC MOCTEZUMA, S.A. DE C.V.' );
+Viaje43 = new google.maps.Marker({
+position: new google.maps.LatLng(25.73706,-100.08554),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-206'
+	});
+attachMessage(Viaje43 , 'T-206','VITRO VIDRIO Y CRISTAL, S.A. DE C.V.' );
+Viaje44 = new google.maps.Marker({
+position: new google.maps.LatLng(21.98395,-98.96014),
+icon:   'images/nuevo8.png',
+map: map,
+title: 'T-204'
+	});
+attachMessage(Viaje44 , 'T-204','CEMEX MEXICO, S.A. DE C.V.' );
+function attachMessage(marker, unidad, cliente) {
+var infowindow = new google.maps.InfoWindow(
+{ content: unidad + "  "+ cliente,
+maxWidth: 200
+});
+google.maps.event.addListener(marker, 'click', function() {
+infowindow.open(map,marker);
+ });
+}
+}
+</script>
+</head>
+<body onload="load()" >
+<div id="map" style="text-align: center; width: 1250px; height: 940px"></div>
+</body>
+</html>

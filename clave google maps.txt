@@ -1,0 +1,26 @@
+Branding information
+
+The following information is shown to users whenever you request access to their private data.
+Product name: 	reportZ
+Google account: 	barbara.abigail@gmail.com
+
+Client ID for installed applications
+Client ID: 	
+991707209618.apps.googleusercontent.com
+Client secret: 	
+J-Jg1TWiUKQSpZnXvhsVq1B8
+Redirect URIs: 	urn:ietf:wg:oauth:2.0:oob http://localhost
+
+    Edit settings...
+    Reset client secret...
+
+Simple API Access
+
+Use API keys to identify your project when you do not need to access user data. Learn more
+Key for browser apps (with referers)
+API key: 	
+AIzaSyAaXZCt7-bTSijj-TKBfpYVfAsnuUqbpZw
+Referers: 	
+*.hinojosa.com.mx\*
+Activated on: 	Sep 3, 2012 8:25 AM
+Activated by: 	barbara.abigail@gmail.com – you 

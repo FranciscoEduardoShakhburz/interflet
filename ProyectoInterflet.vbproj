@@ -1,0 +1,2230 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <MyType>WindowsForms</MyType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{41FE402C-C764-479E-986A-B7698D848333}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>Sistema Interflet</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Interflet.My.MyApplication</StartupObject>
+    <AssemblyMajorVersion>1</AssemblyMajorVersion>
+    <AssemblyMinorVersion>1</AssemblyMinorVersion>
+    <AssemblyRevisionNumber>1</AssemblyRevisionNumber>
+    <GenerateRevisionNumber>False</GenerateRevisionNumber>
+    <AssemblyCompanyName>Gpo. Santana Vega</AssemblyCompanyName>
+    <StartWithIE>False</StartWithIE>
+    <ApplicationIcon>ico\SI2.ico</ApplicationIcon>
+    <RootNamespace>Interflet</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>169F037B2CAF2810CFD52E462F166BBE519F3002</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Reporz_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>es-MX</TargetCulture>
+    <ProductName>Sistema Interflet</ProductName>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>Sistema Interflet.xml</DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <DefineDebug>True</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>Sistema Interflet.xml</DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <DefineDebug>False</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.CrystalActiveXReportViewerLib11_5, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\AxInterop.CrystalActiveXReportViewerLib11_5.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\AxInterop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.MSDataGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\AxInterop.MSDataGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CotizadorInterflet, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CGatitoProjects\CotizadorInterflet\CotizadorInterflet\bin\Release\CotizadorInterflet.exe</HintPath>
+    </Reference>
+    <Reference Include="Interop.CRAXDRT, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.CRAXDRT.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CrystalActiveXReportViewerLib11_5, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.CrystalActiveXReportViewerLib11_5.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CrystalPrintControlLib, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.CrystalPrintControlLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CrystalReportsCommonObjectModelLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CrystalReportsDataDefModelLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.CrystalReportsDataDefModelLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.DAO, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.DAO.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Word, Version=8.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\Sica\LisRep\Reportes Interflet\Interop.Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSAdodcLib, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.MSAdodcLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSDataGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.MSDataGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSDataReportLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Interop.MSDataReportLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\Sica\LisRep\Reportes Interflet\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\Sica\LisRep\Reportes Interflet\Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data">
+      <Name>Microsoft.VisualBasic.Compatibility.Data</Name>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="ADODB">
+      <Guid>{EF53050B-882E-4776-B643-EDA472E8E3F2}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+      <Private>False</Private>
+    </COMReference>
+    <COMReference Include="Domino">
+      <Guid>{29131520-2EED-1069-BF5D-00DD011186B7}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="lotus">
+      <Guid>{1CF542E0-D988-11CF-B485-00805F98FACE}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="Microsoft.StdFormat">
+      <Guid>{6B263850-900B-11D0-9484-00A0C91110ED}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="Microsoft.Vbe.Interop">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSComCtl2">
+      <Guid>{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSDATASRC">
+      <Guid>{7C0FFAB0-CD84-11D0-949A-00A0C91110ED}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="ADODB" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb" />
+    <Compile Include="datasets\Interflet_ConceptosValores.Designer.vb" />
+    <Compile Include="datasets\PI_Calidad.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PI_Calidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_Calidad.vb">
+      <DependentUpon>PI_Calidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_CasetasViaje.Designer.vb">
+      <DependentUpon>PI_CasetasViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_CasetasViaje.vb">
+      <DependentUpon>PI_CasetasViaje.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_CatGastos.Designer.vb" />
+    <Compile Include="datasets\PI_Clientes.Designer.vb" />
+    <Compile Include="datasets\PI_ConsultaCotizacion.Designer.vb" />
+    <Compile Include="datasets\PI_DetalleUtilidad.Designer.vb" />
+    <Compile Include="datasets\PI_Evaluacion.Designer.vb">
+      <DependentUpon>PI_Evaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_Evaluacion.vb">
+      <DependentUpon>PI_Evaluacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_FactorAjuste.Designer.vb" />
+    <Compile Include="datasets\PI_GastosViaje.Designer.vb" />
+    <Compile Include="datasets\PI_IndicadoresCalidad.Designer.vb" />
+    <Compile Include="datasets\PI_Movimientos.Designer.vb">
+      <DependentUpon>PI_Movimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_Movimientos.vb">
+      <DependentUpon>PI_Movimientos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_Rendimientos.Designer.vb" />
+    <Compile Include="datasets\PI_Ruta.Designer.vb" />
+    <Compile Include="datasets\PI_Ruta.vb">
+      <DependentUpon>PI_Ruta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\PI_TipoMotor.Designer.vb" />
+    <Compile Include="datasets\ProdInter_DS_CatDestino.Designer.vb" />
+    <Compile Include="datasets\ProduccionInterfletdbDataSet.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet1.Designer.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet1.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet11.Designer.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet11.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet2.Designer.vb" />
+    <Compile Include="datasets\ProduccionInterfletdbDataSet3.Designer.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet3.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet4.Designer.vb" />
+    <Compile Include="datasets\ProduccionInterfletdbDataSet5.Designer.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet5.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet6.Designer.vb" />
+    <Compile Include="datasets\ProduccionInterfletdbDataSet7.Designer.vb" />
+    <Compile Include="datasets\ProduccionInterfletdbDataSet8.Designer.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbDataSet8.vb">
+      <DependentUpon>ProduccionInterfletdbDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\ProduccionInterfletdbReportes.Designer.vb" />
+    <Compile Include="datasets\QFSUbicacion.Designer.vb" />
+    <Compile Include="datasets\QFSUbicacion.vb">
+      <DependentUpon>QFSUbicacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\CartaPorte.vb" />
+    <Compile Include="Modelos\Destino.vb" />
+    <Compile Include="Modelos\GastosRuta.vb" />
+    <Compile Include="Modelos\Trafico Local\Solicitud.vb" />
+    <Compile Include="Modelos\Trafico Local\TipoContenedor.vb" />
+    <Compile Include="Modelos\Trafico Local\TipoMercancia.vb" />
+    <Compile Include="Modelos\Trafico Local\TipoMovimiento.vb" />
+    <Compile Include="Modelos\Trafico Local\TipoProgramacion.vb" />
+    <Compile Include="Persistencia\Trafico Local\SolicitudDAO.vb" />
+    <Compile Include="Persistencia\Trafico Local\TipoContenedorDAO.vb" />
+    <Compile Include="Persistencia\Trafico Local\TipoMercanciaDAO.vb" />
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\Autorizar.Designer.vb">
+      <DependentUpon>Autorizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\Autorizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\IngresarRegistro.Designer.vb">
+      <DependentUpon>IngresarRegistro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\IngresarRegistro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\RegistroCandidatos.Designer.vb">
+      <DependentUpon>RegistroCandidatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\RegistroCandidatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\AutorizarMovimiento.Designer.vb">
+      <DependentUpon>AutorizarMovimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\AutorizarMovimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatUnidades.Designer.vb">
+      <DependentUpon>CatUnidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatValeGasolina.Designer.vb">
+      <DependentUpon>CatValeGasolina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatValeGasolina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ReporteLtsConsumidos.Designer.vb">
+      <DependentUpon>ReporteLtsConsumidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ReporteLtsConsumidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\Unidad.Designer.vb">
+      <DependentUpon>Unidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\Unidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ValeGasolina.Designer.vb">
+      <DependentUpon>ValeGasolina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ValeGasolina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\AgregarUnidad.Designer.vb">
+      <DependentUpon>AgregarUnidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\AgregarUnidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\AddendaBosch.Designer.vb">
+      <DependentUpon>AddendaBosch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\AddendaBosch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\CaptSellosContenedores.Designer.vb">
+      <DependentUpon>CaptSellosContenedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\CaptSellosContenedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\Acceso.Designer.vb">
+      <DependentUpon>Acceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\Acceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\Adenda K+N\AdendaK+N.Designer.vb">
+      <DependentUpon>AdendaK+N.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\Adenda K+N\AdendaK+N.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\AnticiposEspeciales\AnticiposEspeciales.Designer.vb">
+      <DependentUpon>AnticiposEspeciales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\AnticiposEspeciales\AnticiposEspeciales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\FrmReporteFacPase.Designer.vb">
+      <DependentUpon>FrmReporteFacPase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\FrmReporteFacPase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\RepCpFecPase.Designer.vb">
+      <DependentUpon>RepCpFecPase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\RepCpFecPase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCPSinFac.Designer.vb">
+      <DependentUpon>FrmCPSinFac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCPSinFac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCapturaObservaciones.designer.vb">
+      <DependentUpon>FrmCapturaObservaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCapturaObservaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\PaseFacturacion.Designer.vb">
+      <DependentUpon>PaseFacturacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\PaseFacturacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\ReporteCP.Designer.vb">
+      <DependentUpon>ReporteCP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\ReporteCP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\UltimasCartasPorte.Designer.vb">
+      <DependentUpon>UltimasCartasPorte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Facturación\UltimasCartasPorte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\AgregarCliente.Designer.vb">
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\AgregarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\ObtenerDatosCorreo.vb" />
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\AgregarBitacora.Designer.vb">
+      <DependentUpon>AgregarBitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\AgregarBitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\AgregarViaje.Designer.vb">
+      <DependentUpon>AgregarViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\AgregarViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\EnvioStatus.Designer.vb">
+      <DependentUpon>EnvioStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\EnvioStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\SeleccionarCliente.Designer.vb">
+      <DependentUpon>SeleccionarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\SeleccionarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\CapUniSiniestradas.Designer.vb">
+      <DependentUpon>CapUniSiniestradas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\CapUniSiniestradas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\UnidadesSiniestradas.Designer.vb">
+      <DependentUpon>UnidadesSiniestradas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\UnidadesSiniestradas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\Alerta.Designer.vb">
+      <DependentUpon>Alerta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\Alerta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUniRuta.Designer.vb">
+      <DependentUpon>MonitorUniRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUniRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AgregarOperador.Designer.vb">
+      <DependentUpon>AgregarOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AgregarOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\BitacoraViaje.Designer.vb">
+      <DependentUpon>BitacoraViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\BitacoraViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperador.Designer.vb">
+      <DependentUpon>CambioOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperadorUnidad.Designer.vb">
+      <DependentUpon>CambioOperadorUnidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperadorUnidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CargasAsignacion.Designer.vb">
+      <DependentUpon>CargasAsignacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CargasAsignacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\CatalogoUnidades.Designer.vb">
+      <DependentUpon>CatalogoUnidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\CatalogoUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarCarga.Designer.vb">
+      <DependentUpon>EditarCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarOperador.Designer.vb">
+      <DependentUpon>EditarOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\OperadoresDisponibles.Designer.vb">
+      <DependentUpon>OperadoresDisponibles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\OperadoresDisponibles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\ReporteViaje.Designer.vb">
+      <DependentUpon>ReporteViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\ReporteViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\SeleccionarPrioridadCargas.Designer.vb">
+      <DependentUpon>SeleccionarPrioridadCargas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\SeleccionarPrioridadCargas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\CapOperador.Designer.vb">
+      <DependentUpon>CapOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\CapOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CapturaEstadias.Designer.vb">
+      <DependentUpon>CapturaEstadias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CapturaEstadias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoEquipos.Designer.vb">
+      <DependentUpon>CatalogoEquipos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoEquipos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoPersonal.Designer.vb">
+      <DependentUpon>CatalogoPersonal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoPersonal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\Estadias.Designer.vb">
+      <DependentUpon>Estadias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\Estadias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\CatRutas.Designer.vb">
+      <DependentUpon>CatRutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\CatRutas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\IngresarRuta.Designer.vb">
+      <DependentUpon>IngresarRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\IngresarRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\CaptSeguimientoEmbarques.Designer.vb">
+      <DependentUpon>CaptSeguimientoEmbarques.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\CaptSeguimientoEmbarques.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\Estadisticas.Designer.vb">
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\Estadisticas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SeguimientoEmbarques.Designer.vb">
+      <DependentUpon>SeguimientoEmbarques.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SeguimientoEmbarques.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SelectorColumnas.Designer.vb">
+      <DependentUpon>SelectorColumnas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SelectorColumnas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUnidadesRuta.Designer.vb">
+      <DependentUpon>MonitorUnidadesRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUnidadesRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AutorizarOperador.Designer.vb">
+      <DependentUpon>AutorizarOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AutorizarOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\HistorialMttoUnidad.Designer.vb">
+      <DependentUpon>HistorialMttoUnidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\HistorialMttoUnidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\MonitorMttoPreventivo.Designer.vb">
+      <DependentUpon>MonitorMttoPreventivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\MonitorMttoPreventivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\AsignacionOperadores.Designer.vb">
+      <DependentUpon>AsignacionOperadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\AsignacionOperadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\SeleccionarReporte.Designer.vb">
+      <DependentUpon>SeleccionarReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\SeleccionarReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\AgregarCarga.Designer.vb">
+      <DependentUpon>AgregarCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\AgregarCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\BuscadorCargas.Designer.vb">
+      <DependentUpon>BuscadorCargas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\BuscadorCargas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\CambiarOperador.Designer.vb">
+      <DependentUpon>CambiarOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\CambiarOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\ClavesCelulares.Designer.vb">
+      <DependentUpon>ClavesCelulares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\ClavesCelulares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\EscogerReporte.Designer.vb">
+      <DependentUpon>EscogerReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\EscogerReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\FormCasetasPendientesCaptura.Designer.vb">
+      <DependentUpon>FormCasetasPendientesCaptura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\FormCasetasPendientesCaptura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\GenerarPrograma.Designer.vb">
+      <DependentUpon>GenerarPrograma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\GenerarPrograma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresarCarga.Designer.vb">
+      <DependentUpon>IngresarCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresarCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\IngresoBooking.Designer.vb">
+      <DependentUpon>IngresoBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\IngresoBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresoFolio.Designer.vb">
+      <DependentUpon>IngresoFolio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresoFolio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\InventarioUnidades.Designer.vb">
+      <DependentUpon>InventarioUnidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\InventarioUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ModificacionMasiva.Designer.vb">
+      <DependentUpon>ModificacionMasiva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ModificacionMasiva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\PasesSalida.Designer.vb">
+      <DependentUpon>PasesSalida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\PasesSalida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\ProgramacionDiaria.Designer.vb">
+      <DependentUpon>ProgramacionDiaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\ProgramacionDiaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\ReporteEstatusContenedores.Designer.vb">
+      <DependentUpon>ReporteEstatusContenedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\ReporteEstatusContenedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ResumenCargas.Designer.vb">
+      <DependentUpon>ResumenCargas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ResumenCargas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte_tramo_sencillo.Designer.vb">
+      <DependentUpon>Reporte_tramo_sencillo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte_tramo_sencillo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\ReProgramacion.Designer.vb">
+      <DependentUpon>ReProgramacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\ReProgramacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\RProgramacio.Designer.vb">
+      <DependentUpon>RProgramacio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\RProgramacio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\SeleccionarFechaMod.Designer.vb">
+      <DependentUpon>SeleccionarFechaMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\SeleccionarFechaMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\SellosContenedores.Designer.vb">
+      <DependentUpon>SellosContenedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\SellosContenedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\UnidadesPatio\UnidadesPatio.Designer.vb">
+      <DependentUpon>UnidadesPatio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\UnidadesPatio\UnidadesPatio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Control Tramos Sencillos\AlertasTramoSencillo.Designer.vb">
+      <DependentUpon>AlertasTramoSencillo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Control Tramos Sencillos\AlertasTramoSencillo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\FormEvaluacionLocal.Designer.vb">
+      <DependentUpon>FormEvaluacionLocal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\FormEvaluacionLocal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmRendEstSuge.Designer.vb">
+      <DependentUpon>frmRendEstSuge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmRendEstSuge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\ReporteLocales.Designer.vb">
+      <DependentUpon>ReporteLocales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\ReporteLocales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formEjecutivos.Designer.vb">
+      <DependentUpon>formEjecutivos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formEjecutivos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\FrmCasetasGastos.Designer.vb">
+      <DependentUpon>FrmCasetasGastos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\FrmCasetasGastos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\frmConsultaDeMov.Designer.vb">
+      <DependentUpon>frmConsultaDeMov.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\frmConsultaDeMov.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de movimientos por unidad\ReporteMovimientosUnidades.Designer.vb">
+      <DependentUpon>ReporteMovimientosUnidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de movimientos por unidad\ReporteMovimientosUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\EditarViaje.Designer.vb">
+      <DependentUpon>EditarViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\EditarViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\ReporteSalidas.Designer.vb">
+      <DependentUpon>ReporteSalidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\ReporteSalidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="util\ExcelSolicitud.vb" />
+    <Compile Include="util\TipoMovimientoDAO.vb" />
+    <Compile Include="Persistencia\Trafico Local\TipoProgramacionDAO.vb" />
+    <Compile Include="ProduccionInterfletdbDataSet9.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProduccionInterfletdbDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\formHorarioCliente.Designer.vb">
+      <DependentUpon>formHorarioCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\formHorarioCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmIndicadoresCalidad.Designer.vb">
+      <DependentUpon>frmIndicadoresCalidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmIndicadoresCalidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmRepCalidad.Designer.vb">
+      <DependentUpon>frmRepCalidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmRepCalidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmReporteCalidad.Designer.vb">
+      <DependentUpon>frmReporteCalidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmReporteCalidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmcatDestinos.Designer.vb">
+      <DependentUpon>frmcatDestinos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmcatDestinos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\FrmConsultaCotizacion.Designer.vb">
+      <DependentUpon>FrmConsultaCotizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\FrmConsultaCotizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmCotizador.Designer.vb">
+      <DependentUpon>frmCotizador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmCotizador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frm_Cat_Conceptos.Designer.vb">
+      <DependentUpon>frm_Cat_Conceptos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frm_Cat_Conceptos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\TipoViaje.vb" />
+    <Compile Include="Persistencia\Trafico Local\TipoViajeDAO.vb" />
+    <Compile Include="Modelos\Viaje.vb" />
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formAlerta.Designer.vb">
+      <DependentUpon>formAlerta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formAlerta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formConfiguracion.Designer.vb">
+      <DependentUpon>formConfiguracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formConfiguracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formEnviarCorreo.Designer.vb">
+      <DependentUpon>formEnviarCorreo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formEnviarCorreo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUbica.designer.vb">
+      <DependentUpon>frmMapaUbica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUbica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUtilitarios.Designer.vb">
+      <DependentUpon>frmMapaUtilitarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUtilitarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmRepMovUnidad.Designer.vb">
+      <DependentUpon>frmRepMovUnidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmRepMovUnidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaUtilitarios.Designer.vb">
+      <DependentUpon>frmUbicaUtilitarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaUtilitarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaViajes.designer.vb">
+      <DependentUpon>frmUbicaViajes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaViajes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\InputDialog.Designer.vb">
+      <DependentUpon>InputDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\InputDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\formCasetasIAVE.Designer.vb">
+      <DependentUpon>formCasetasIAVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\formCasetasIAVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\formLiquidaciones.Designer.vb">
+      <DependentUpon>formLiquidaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\formLiquidaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmConsultaEquipos.Designer.vb">
+      <DependentUpon>frmConsultaEquipos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmConsultaEquipos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmOrdenesCompra.Designer.vb">
+      <DependentUpon>frmOrdenesCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmOrdenesCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasEvaluacion.Designer.vb">
+      <DependentUpon>formCasetasEvaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasEvaluacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formClientes.Designer.vb">
+      <DependentUpon>formClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formEmails.Designer.vb">
+      <DependentUpon>formEmails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formEmails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formOperadores.Designer.vb">
+      <DependentUpon>formOperadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formOperadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formTipoViaje.Designer.vb">
+      <DependentUpon>formTipoViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formTipoViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasNuevas.Designer.vb">
+      <DependentUpon>formCasetasNuevas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasNuevas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formReporteEvaluacion.Designer.vb">
+      <DependentUpon>formReporteEvaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formReporteEvaluacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionviaje.Designer.vb">
+      <DependentUpon>frmEvaluacionviaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionviaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\formEscogerCiudad.Designer.vb">
+      <DependentUpon>formEscogerCiudad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\formEscogerCiudad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\formKilometraje.Designer.vb">
+      <DependentUpon>formKilometraje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\formKilometraje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCasetasViaje.Designer.vb">
+      <DependentUpon>frmCasetasViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCasetasViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCatCasetas.Designer.vb">
+      <DependentUpon>frmCatCasetas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCatCasetas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\frmCatFactorAjuste.Designer.vb">
+      <DependentUpon>frmCatFactorAjuste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\frmCatFactorAjuste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmCatRendmientosProm.Designer.vb">
+      <DependentUpon>frmCatRendmientosProm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmCatRendmientosProm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmDatosViaje.Designer.vb">
+      <DependentUpon>frmDatosViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmDatosViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmDetalleUtilidad.Designer.vb">
+      <DependentUpon>frmDetalleUtilidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmDetalleUtilidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmGastosViaje.Designer.vb">
+      <DependentUpon>frmGastosViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmGastosViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmReporteReset.Designer.vb">
+      <DependentUpon>frmReporteReset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmReporteReset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmRepViajesEvaluados.Designer.vb">
+      <DependentUpon>frmRepViajesEvaluados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmRepViajesEvaluados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmUtilidadViajes.Designer.vb">
+      <DependentUpon>frmUtilidadViajes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmUtilidadViajes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formCatGastos.Designer.vb">
+      <DependentUpon>formCatGastos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formCatGastos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formGastosPorRuta.Designer.vb">
+      <DependentUpon>formGastosPorRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formGastosPorRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formProveedores.Designer.vb">
+      <DependentUpon>formProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formReporteGastos.Designer.vb">
+      <DependentUpon>formReporteGastos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formReporteGastos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formRutas.Designer.vb">
+      <DependentUpon>formRutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formRutas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposContenedor.Designer.vb">
+      <DependentUpon>formTiposContenedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposContenedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMovimiento.Designer.vb">
+      <DependentUpon>formTiposMovimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMovimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMercancia.Designer.vb">
+      <DependentUpon>formTiposMercancia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMercancia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposProgramacion.Designer.vb">
+      <DependentUpon>formTiposProgramacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposProgramacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formGuardaContenedores.Designer.vb">
+      <DependentUpon>formGuardaContenedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formGuardaContenedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSeguimiento.Designer.vb">
+      <DependentUpon>formSeguimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSeguimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSolicitudTransporte.Designer.vb">
+      <DependentUpon>formSolicitudTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSolicitudTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formAgenciaAduanal.Designer.vb">
+      <DependentUpon>formAgenciaAduanal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formAgenciaAduanal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formContenedores.Designer.vb">
+      <DependentUpon>formContenedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formContenedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTerminales.Designer.vb">
+      <DependentUpon>formTerminales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTerminales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formIngresoEIR.Designer.vb">
+      <DependentUpon>formIngresoEIR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formIngresoEIR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formReporteEIR.Designer.vb">
+      <DependentUpon>formReporteEIR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formReporteEIR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="util\DataGridViewPrinter.vb" />
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionLocal.Designer.vb">
+      <DependentUpon>frmEvaluacionLocal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionLocal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formEvaluacionViaje.Designer.vb">
+      <DependentUpon>formEvaluacionViaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formEvaluacionViaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\MDIPRINC.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>MDIPRINC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persistencia\Trafico Local\ui\MDIPRINC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="util\Email.vb" />
+    <Compile Include="util\Numero.vb" />
+    <Compile Include="util\proctraf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UpgradeSupport.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="util\Connection.vb" />
+    <Compile Include="util\Excel.vb" />
+    <Compile Include="util\Reset\CAT\ResetCAT.vb" />
+    <Compile Include="util\Reset\Cummins\ResetCummins.vb" />
+    <Compile Include="util\StringValidator.vb" />
+    <Compile Include="util\Word.vb" />
+    <EmbeddedResource Include="CatConceptos.rdlc" />
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\Autorizar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Autorizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\IngresarRegistro.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IngresarRegistro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\RecursosHumanos\Registro de candidatos a operador\RegistroCandidatos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RegistroCandidatos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\AutorizarMovimiento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AutorizarMovimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatUnidades.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatUnidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\CatValeGasolina.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatValeGasolina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ReporteLtsConsumidos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteLtsConsumidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\Unidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Unidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\ValesGasolina\ValeGasolina.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ValeGasolina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\AgregarUnidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarUnidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Unidades\CatalogoUnidades.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatalogoUnidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\Clientes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\AddendaBosch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddendaBosch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Calidad\formHorarioCliente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formHorarioCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmIndicadoresCalidad.resx">
+      <DependentUpon>frmIndicadoresCalidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmRepCalidad.resx">
+      <DependentUpon>frmRepCalidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Calidad\frmReporteCalidad.resx">
+      <DependentUpon>frmReporteCalidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\CaptSellosContenedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CaptSellosContenedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmcatDestinos.resx">
+      <DependentUpon>frmcatDestinos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\FrmConsultaCotizacion.resx">
+      <DependentUpon>FrmConsultaCotizacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frmCotizador.resx">
+      <DependentUpon>frmCotizador.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Cotizacion\frm_Cat_Conceptos.resx">
+      <DependentUpon>frm_Cat_Conceptos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\Acceso.resx">
+      <DependentUpon>Acceso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\Adenda K+N\AdendaK+N.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AdendaK+N.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\AnticiposEspeciales\AnticiposEspeciales.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AnticiposEspeciales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\FrmReporteFacPase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmReporteFacPase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\PaseFacturacion.resx">
+      <DependentUpon>PaseFacturacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\CP-Pase\RepCpFecPase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RepCpFecPase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCPSinFac.resx">
+      <DependentUpon>FrmCPSinFac.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\FrmCapturaObservaciones.resx">
+      <DependentUpon>FrmCapturaObservaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\ReporteCP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteCP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Facturación\UltimasCartasPorte.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UltimasCartasPorte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Catálogos\Clientes\AgregarCliente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\AgregarBitacora.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarBitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\AgregarViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\EnvioStatus.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EnvioStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Envío automatico de estatus\SeleccionarCliente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeleccionarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\CapUniSiniestradas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CapUniSiniestradas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\UnidadesSiniestradas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UnidadesSiniestradas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\Alerta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Alerta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUniRuta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonitorUniRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AgregarOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Bitacora de viaje\BitacoraViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BitacoraViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CambioOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CambioOperadorUnidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CambioOperadorUnidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\CargasAsignacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CargasAsignacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarCarga.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditarCarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\EditarOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditarOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\OperadoresDisponibles.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OperadoresDisponibles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\ReporteViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\SeleccionarPrioridadCargas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeleccionarPrioridadCargas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\CapOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CapOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CapturaEstadias.resx">
+      <DependentUpon>CapturaEstadias.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoEquipos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatalogoEquipos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\CatalogoPersonal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatalogoPersonal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Estadias\Estadias.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Estadias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\CatRutas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CatRutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\IngresarRuta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IngresarRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\CaptSeguimientoEmbarques.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CaptSeguimientoEmbarques.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\Estadisticas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Estadisticas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SeguimientoEmbarques.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeguimientoEmbarques.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formAlerta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formAlerta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formConfiguracion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formConfiguracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\formEnviarCorreo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formEnviarCorreo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUbica.resx">
+      <DependentUpon>frmMapaUbica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmMapaUtilitarios.resx">
+      <DependentUpon>frmMapaUtilitarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmRepMovUnidad.resx">
+      <DependentUpon>frmRepMovUnidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaUtilitarios.resx">
+      <DependentUpon>frmUbicaUtilitarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\frmUbicaViajes.resx">
+      <DependentUpon>frmUbicaViajes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\InputDialog.resx">
+      <DependentUpon>InputDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Seguimiento de embarques\SelectorColumnas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectorColumnas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Unidades en ruta\MonitorUnidadesRuta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonitorUnidadesRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Asignación de cargas\AutorizarOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AutorizarOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\HistorialMttoUnidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HistorialMttoUnidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\MttoPreventivo\MonitorMttoPreventivo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonitorMttoPreventivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\OperadoresDisponibles\AsignacionOperadores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AsignacionOperadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\SeleccionarReporte.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeleccionarReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\AgregarCarga.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregarCarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\BuscadorCargas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BuscadorCargas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\CambiarOperador.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CambiarOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\ClavesCelulares.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClavesCelulares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\EscogerReporte.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EscogerReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\formCasetasIAVE.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formCasetasIAVE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\FormCasetasPendientesCaptura.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCasetasPendientesCaptura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\formLiquidaciones.resx">
+      <DependentUpon>formLiquidaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmConsultaEquipos.resx">
+      <DependentUpon>frmConsultaEquipos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\frmOrdenesCompra.resX">
+      <DependentUpon>frmOrdenesCompra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\GenerarPrograma.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GenerarPrograma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresarCarga.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IngresarCarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\IngresoBooking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IngresoBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\IngresoFolio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IngresoFolio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Monitoreo\Inventario de Unidades\InventarioUnidades.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InventarioUnidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ModificacionMasiva.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ModificacionMasiva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\PasesSalida.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PasesSalida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\ProgramacionDiaria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProgramacionDiaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de contenedores\ReporteEstatusContenedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteEstatusContenedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\ResumenCargas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ResumenCargas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte_tramo_sencillo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Reporte_tramo_sencillo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\ReProgramacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReProgramacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Reporte de Programación\RProgramacio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RProgramacio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\SeleccionarFechaMod.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SeleccionarFechaMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Capturas\Sellos de contenedores\SellosContenedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SellosContenedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\UnidadesPatio\UnidadesPatio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UnidadesPatio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasEvaluacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formCasetasEvaluacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formClientes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formEmails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formEmails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formOperadores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formOperadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Catalogos\formTipoViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTipoViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\formCasetasNuevas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formCasetasNuevas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Control Tramos Sencillos\AlertasTramoSencillo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AlertasTramoSencillo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\FormEvaluacionLocal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormEvaluacionLocal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formReporteEvaluacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formReporteEvaluacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionviaje.resx">
+      <DependentUpon>frmEvaluacionviaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmRendEstSuge.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRendEstSuge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\ReporteLocales.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteLocales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\formEscogerCiudad.resx">
+      <DependentUpon>formEscogerCiudad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\formKilometraje.resx">
+      <DependentUpon>formKilometraje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCasetasViaje.resx">
+      <DependentUpon>frmCasetasViaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Casetas\frmCatCasetas.resx">
+      <DependentUpon>frmCatCasetas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\FrmCasetasGastos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmCasetasGastos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\frmCatFactorAjuste.resx">
+      <DependentUpon>frmCatFactorAjuste.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmCatRendmientosProm.resx">
+      <DependentUpon>frmCatRendmientosProm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmDatosViaje.resx">
+      <DependentUpon>frmDatosViaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmDetalleUtilidad.resx">
+      <DependentUpon>frmDetalleUtilidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Datos Viaje\frmGastosViaje.resx">
+      <DependentUpon>frmGastosViaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmReporteReset.resx">
+      <DependentUpon>frmReporteReset.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\frmRepViajesEvaluados.resx">
+      <DependentUpon>frmRepViajesEvaluados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Reportes\Utilidad\frmUtilidadViajes.resx">
+      <DependentUpon>frmUtilidadViajes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\frmEvaluacionLocal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEvaluacionLocal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Evaluacion\formEvaluacionViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formEvaluacionViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formCatGastos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formCatGastos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formGastosPorRuta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formGastosPorRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formProveedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formReporteGastos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formReporteGastos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Gastos de Viaje\formRutas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formRutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formEjecutivos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formEjecutivos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposContenedor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTiposContenedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMercancia.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTiposMercancia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposMovimiento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTiposMovimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTiposProgramacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTiposProgramacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formGuardaContenedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formGuardaContenedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSeguimiento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formSeguimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\formSolicitudTransporte.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formSolicitudTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formAgenciaAduanal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formAgenciaAduanal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formContenedores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formContenedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Catalogos\formTerminales.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formTerminales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formIngresoEIR.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formIngresoEIR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\EIR\formReporteEIR.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>formReporteEIR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Locales\Solicitud de Transporte\frmConsultaDeMov.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmConsultaDeMov.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de movimientos por unidad\ReporteMovimientosUnidades.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteMovimientosUnidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\EditarViaje.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditarViaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\.NET\Viajes\Reporte de salidas\ReporteSalidas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteSalidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persistencia\Trafico Local\ui\MDIPRINC.resX">
+      <DependentUpon>MDIPRINC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepCalidad.rdlc" />
+    <None Include="AlertaTramos.wav" />
+    <Content Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </Content>
+    <Content Include="ico\Reporz.ico" />
+    <Content Include="ico\SI.ico" />
+    <Content Include="ico\SI2.ico" />
+    <None Include="red Alert-Sound.wav" />
+    <None Include="app.config" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="datasets\Interflet_ConceptosValores.xsc">
+      <DependentUpon>Interflet_ConceptosValores.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\Interflet_ConceptosValores.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\Interflet_ConceptosValores.xss">
+      <DependentUpon>Interflet_ConceptosValores.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Calidad.xsc">
+      <DependentUpon>PI_Calidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Calidad.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PI_Calidad.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="datasets\PI_Calidad.xss">
+      <DependentUpon>PI_Calidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_CasetasViaje.xsc">
+      <DependentUpon>PI_CasetasViaje.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_CasetasViaje.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_CasetasViaje.xss">
+      <DependentUpon>PI_CasetasViaje.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_CatGastos.xsc">
+      <DependentUpon>PI_CatGastos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_CatGastos.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_CatGastos.xss">
+      <DependentUpon>PI_CatGastos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Clientes.xsc">
+      <DependentUpon>PI_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Clientes.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_Clientes.xss">
+      <DependentUpon>PI_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_ConsultaCotizacion.xsc">
+      <DependentUpon>PI_ConsultaCotizacion.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_ConsultaCotizacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_ConsultaCotizacion.xss">
+      <DependentUpon>PI_ConsultaCotizacion.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_DetalleUtilidad.xsc">
+      <DependentUpon>PI_DetalleUtilidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_DetalleUtilidad.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_DetalleUtilidad.xss">
+      <DependentUpon>PI_DetalleUtilidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Evaluacion.xsc">
+      <DependentUpon>PI_Evaluacion.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Evaluacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_Evaluacion.xss">
+      <DependentUpon>PI_Evaluacion.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_FactorAjuste.xsc">
+      <DependentUpon>PI_FactorAjuste.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_FactorAjuste.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_FactorAjuste.xss">
+      <DependentUpon>PI_FactorAjuste.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_GastosViaje.xsc">
+      <DependentUpon>PI_GastosViaje.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_GastosViaje.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_GastosViaje.xss">
+      <DependentUpon>PI_GastosViaje.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_IndicadoresCalidad.xsc">
+      <DependentUpon>PI_IndicadoresCalidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_IndicadoresCalidad.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_IndicadoresCalidad.xss">
+      <DependentUpon>PI_IndicadoresCalidad.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Movimientos.xsc">
+      <DependentUpon>PI_Movimientos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Movimientos.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_Movimientos.xss">
+      <DependentUpon>PI_Movimientos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Rendimientos.xsc">
+      <DependentUpon>PI_Rendimientos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Rendimientos.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_Rendimientos.xss">
+      <DependentUpon>PI_Rendimientos.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Ruta.xsc">
+      <DependentUpon>PI_Ruta.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_Ruta.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_Ruta.xss">
+      <DependentUpon>PI_Ruta.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_TipoMotor.xsc">
+      <DependentUpon>PI_TipoMotor.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\PI_TipoMotor.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\PI_TipoMotor.xss">
+      <DependentUpon>PI_TipoMotor.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProdInter_DS_CatDestino.xsc">
+      <DependentUpon>ProdInter_DS_CatDestino.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProdInter_DS_CatDestino.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProdInter_DS_CatDestino.xss">
+      <DependentUpon>ProdInter_DS_CatDestino.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet1.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet1.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet11.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet11.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet2.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet2.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet3.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet3.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet4.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet4.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet5.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet5.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet6.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet6.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet7.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet7.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet8.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet8.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbDataSet8.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbReportes.xsc">
+      <DependentUpon>ProduccionInterfletdbReportes.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbReportes.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\ProduccionInterfletdbReportes.xss">
+      <DependentUpon>ProduccionInterfletdbReportes.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\QFSUbicacion.xsc">
+      <DependentUpon>QFSUbicacion.xsd</DependentUpon>
+    </None>
+    <None Include="datasets\QFSUbicacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="datasets\QFSUbicacion.xss">
+      <DependentUpon>QFSUbicacion.xsd</DependentUpon>
+    </None>
+    <None Include="Depositos.vshost.exe.config" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ProduccionInterfletdbDataSet9.xsc">
+      <DependentUpon>ProduccionInterfletdbDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="ProduccionInterfletdbDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProduccionInterfletdbDataSet9.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProduccionInterfletdbDataSet9.xss">
+      <DependentUpon>ProduccionInterfletdbDataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.8.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2005 Report Viewer</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

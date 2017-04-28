@@ -1,0 +1,760 @@
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interop.Domino.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interop.lotus.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.ResolveComReference.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatConceptos.rdlc
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCalidad.rdlc
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AddendaBosch.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formHorarioCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmIndicadoresCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSellosContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmcatDestinos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmConsultaCotizacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCotizador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frm_Cat_Conceptos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Acceso.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmReporteFacPase.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.PaseFacturacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCPSinFac.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCapturaObservaciones.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.UltimasCartasPorte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formAlerta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formConfiguracion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formEnviarCorreo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUbica.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUtilitarios.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepMovUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaUtilitarios.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaViajes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.InputDialog.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AsignacionCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.BuscadorCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CambiarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ClavesCelulares.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.EscogerReporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasIAVE.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FormCasetasPendientesCaptura.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formLiquidaciones.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaEquipos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmOrdenesCompra.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.GenerarPrograma.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoBooking.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoFolio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.InventarioUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ModificacionMasiva.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.PasesSalida.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ProgramacionDiaria.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteEstatusContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Reporte_tramo_sencillo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReProgramacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.RProgramacio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarFechaMod.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SellosContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasEvaluacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formClientes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formEmails.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formOperadores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTipoViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasNuevas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FormEvaluacionLocal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEvaluacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionviaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRendEstSuge.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLocales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formEscogerCiudad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formKilometraje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCasetasViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatCasetas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCasetasGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatFactorAjuste.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatRendmientosProm.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDatosViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDetalleUtilidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmGastosViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteReset.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepViajesEvaluados.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUtilidadViajes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionLocal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formEvaluacionViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formCatGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formGastosPorRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formProveedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formRutas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formEjecutivos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposContenedor.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMercancia.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMovimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposProgramacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formGuardaContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formSeguimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formSolicitudTransporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formAgenciaAduanal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formTerminales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formIngresoEIR.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEIR.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaDeMov.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.MDIPRINC.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Resources.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.TrustInfo.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe.manifest
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.application
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.pdb
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarReporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ResumenCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorMttoPreventivo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ValeGasolina.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatValeGasolina.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Unidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarMovimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSeguimientoEmbarques.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SeguimientoEmbarques.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SelectorColumnas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.HistorialMttoUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadisticas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRegistro.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.RegistroCandidatos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Autorizar.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatRutas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLtsConsumidos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CapturaEstadias.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadias.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AsignacionOperadores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CapOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoPersonal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoEquipos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesPatio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUnidadesRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.OperadoresDisponibles.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Alerta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteSalidas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AlertasTramoSencillo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AnticiposEspeciales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesSiniestradas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CapUniSiniestradas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCpFecPase.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.EnvioStatus.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteCP.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.Clientes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUniRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CargasAsignacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CambioOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.BitacoraViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarBitacora.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.config
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.manifest
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.application
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.exe
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\AxInterop.CrystalActiveXReportViewerLib11_5.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\AxInterop.MSComCtl2.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\AxInterop.MSDataGridLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\CotizadorInterflet.exe
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.CRAXDRT.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.CrystalActiveXReportViewerLib11_5.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.CrystalPrintControlLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.CrystalReportsDataDefModelLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.DAO.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.MSAdodcLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.MSComCtl2.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.MSDataGridLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.MSDataReportLib.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.Common.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\CotizadorInterflet.pdb
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.Domino.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.lotus.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interop.Domino.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interop.lotus.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interop.MSComCtl2.dll
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\ProyectoInterflet.vbproj.ResolveComReference.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatConceptos.rdlc
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.RepCalidad.rdlc
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Autorizar.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.IngresarRegistro.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.RegistroCandidatos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AutorizarMovimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatValeGasolina.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteLtsConsumidos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Unidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ValeGasolina.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatalogoUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Clientes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AddendaBosch.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formHorarioCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmIndicadoresCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmRepCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmReporteCalidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CaptSellosContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmcatDestinos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FrmConsultaCotizacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmCotizador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frm_Cat_Conceptos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Acceso.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AnticiposEspeciales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FrmReporteFacPase.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.PaseFacturacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.RepCpFecPase.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FrmCPSinFac.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FrmCapturaObservaciones.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteCP.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.UltimasCartasPorte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarBitacora.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.EnvioStatus.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SeleccionarCliente.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CapUniSiniestradas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.UnidadesSiniestradas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Alerta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.MonitorUniRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.BitacoraViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CambioOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CargasAsignacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.EditarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.EditarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.OperadoresDisponibles.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CapOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CapturaEstadias.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatalogoEquipos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatalogoPersonal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Estadias.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CatRutas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.IngresarRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CaptSeguimientoEmbarques.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Estadisticas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SeguimientoEmbarques.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formAlerta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formConfiguracion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formEnviarCorreo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmMapaUbica.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmMapaUtilitarios.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmRepMovUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmUbicaUtilitarios.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmUbicaViajes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.InputDialog.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SelectorColumnas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.MonitorUnidadesRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AutorizarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.HistorialMttoUnidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.MonitorMttoPreventivo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AsignacionOperadores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SeleccionarReporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AgregarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AsignacionCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.BuscadorCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.CambiarOperador.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ClavesCelulares.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.EscogerReporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formCasetasIAVE.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FormCasetasPendientesCaptura.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formLiquidaciones.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmConsultaEquipos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmOrdenesCompra.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.GenerarPrograma.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.IngresarCarga.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.IngresoBooking.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.IngresoFolio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.InventarioUnidades.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ModificacionMasiva.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.PasesSalida.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ProgramacionDiaria.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteEstatusContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ResumenCargas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Reporte_tramo_sencillo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReProgramacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.RProgramacio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SeleccionarFechaMod.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.SellosContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.UnidadesPatio.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formCasetasEvaluacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formClientes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formEmails.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formOperadores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTipoViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formCasetasNuevas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.AlertasTramoSencillo.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FormEvaluacionLocal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formReporteEvaluacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmEvaluacionviaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmRendEstSuge.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteLocales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formEscogerCiudad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formKilometraje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmCasetasViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmCatCasetas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.FrmCasetasGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmCatFactorAjuste.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmCatRendmientosProm.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmDatosViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmDetalleUtilidad.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmGastosViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmReporteReset.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmRepViajesEvaluados.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmUtilidadViajes.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmEvaluacionLocal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formEvaluacionViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formCatGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formGastosPorRuta.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formProveedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formReporteGastos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formRutas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formEjecutivos.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTiposContenedor.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTiposMercancia.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTiposMovimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTiposProgramacion.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formGuardaContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formSeguimiento.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formSolicitudTransporte.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formAgenciaAduanal.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formContenedores.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formTerminales.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formIngresoEIR.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.formReporteEIR.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.frmConsultaDeMov.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.EditarViaje.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.ReporteSalidas.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.MDIPRINC.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Interflet.Resources.resources
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\ProyectoInterflet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\RdlCompile.cache
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Sistema Interflet.TrustInfo.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Sistema Interflet.exe.manifest
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Sistema Interflet.application
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Sistema Interflet.exe
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\obj\Release\Sistema Interflet.xml
+C:\Documents and Settings\pablo.montalvo\Escritorio\InterfletProjects\Version Estable\bin\Sistema Interflet.pdb
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interop.Domino.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interop.lotus.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.ResolveComReference.cache
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatConceptos.rdlc
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCalidad.rdlc
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Autorizar.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRegistro.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RegistroCandidatos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarMovimiento.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatUnidades.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatValeGasolina.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLtsConsumidos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Unidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ValeGasolina.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarUnidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoUnidades.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Clientes.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AddendaBosch.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formHorarioCliente.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmIndicadoresCalidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepCalidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteCalidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSellosContenedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmcatDestinos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmConsultaCotizacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCotizador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frm_Cat_Conceptos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Acceso.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AnticiposEspeciales.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmReporteFacPase.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.PaseFacturacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCpFecPase.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCPSinFac.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCapturaObservaciones.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteCP.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UltimasCartasPorte.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCliente.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarBitacora.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EnvioStatus.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarCliente.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapUniSiniestradas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesSiniestradas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Alerta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUniRuta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.BitacoraViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambioOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CargasAsignacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarCarga.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.OperadoresDisponibles.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapturaEstadias.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoEquipos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoPersonal.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadias.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatRutas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRuta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSeguimientoEmbarques.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadisticas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeguimientoEmbarques.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formAlerta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formConfiguracion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEnviarCorreo.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUbica.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUtilitarios.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepMovUnidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaUtilitarios.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaViajes.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.InputDialog.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SelectorColumnas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUnidadesRuta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.HistorialMttoUnidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorMttoPreventivo.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AsignacionOperadores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarReporte.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCarga.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.BuscadorCargas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambiarOperador.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ClavesCelulares.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EscogerReporte.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasIAVE.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FormCasetasPendientesCaptura.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formLiquidaciones.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaEquipos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmOrdenesCompra.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.GenerarPrograma.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarCarga.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoBooking.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoFolio.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.InventarioUnidades.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ModificacionMasiva.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.PasesSalida.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ProgramacionDiaria.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteEstatusContenedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ResumenCargas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Reporte_tramo_sencillo.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReProgramacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RProgramacio.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarFechaMod.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SellosContenedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesPatio.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasEvaluacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formClientes.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEmails.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formOperadores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTipoViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasNuevas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AlertasTramoSencillo.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FormEvaluacionLocal.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEvaluacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionviaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRendEstSuge.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLocales.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEscogerCiudad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formKilometraje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCasetasViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatCasetas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCasetasGastos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatFactorAjuste.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatRendmientosProm.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDatosViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDetalleUtilidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmGastosViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteReset.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepViajesEvaluados.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUtilidadViajes.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionLocal.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEvaluacionViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCatGastos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formGastosPorRuta.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formProveedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteGastos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formRutas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEjecutivos.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposContenedor.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMercancia.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMovimiento.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposProgramacion.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formGuardaContenedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formSeguimiento.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formSolicitudTransporte.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formAgenciaAduanal.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formContenedores.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTerminales.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formIngresoEIR.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEIR.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaDeMov.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarViaje.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteSalidas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MDIPRINC.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Resources.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.GenerateResource.Cache
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\RdlCompile.cache
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\RdlCompile.compiled
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.xml
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.pdb
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.TrustInfo.xml
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe.manifest
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.application
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambioOperadorUnidad.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AdendaK_N.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteMovimientosUnidades.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarPrioridadCargas.resources
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.config
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.manifest
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.application
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.pdb
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.xml
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.CrystalActiveXReportViewerLib11_5.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.MSComCtl2.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.MSDataGridLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\CotizadorInterflet.exe
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CRAXDRT.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalActiveXReportViewerLib11_5.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalPrintControlLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.DAO.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSAdodcLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSComCtl2.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSDataGridLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSDataReportLib.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\CotizadorInterflet.pdb
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.Domino.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.lotus.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Outlook.dll
+C:\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Excel.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.config
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe.manifest
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.application
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.exe
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.pdb
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Sistema Interflet.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.CrystalActiveXReportViewerLib11_5.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.MSComCtl2.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\AxInterop.MSDataGridLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\CotizadorInterflet.exe
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CRAXDRT.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalActiveXReportViewerLib11_5.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalPrintControlLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalReportsCommonObjectModelLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.CrystalReportsDataDefModelLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.DAO.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.Microsoft.Office.Interop.Word.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSAdodcLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSComCtl2.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSDataGridLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.MSDataReportLib.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Excel.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Outlook.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.Common.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.ReportViewer.WinForms.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\CotizadorInterflet.pdb
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Microsoft.Office.Interop.Excel.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.Domino.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\bin\Interop.lotus.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ResolveAssemblyReference.cache
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interop.Domino.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interop.lotus.dll
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.ResolveComReference.cache
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatConceptos.rdlc
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCalidad.rdlc
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Autorizar.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRegistro.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RegistroCandidatos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarMovimiento.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatUnidades.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatValeGasolina.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLtsConsumidos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Unidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ValeGasolina.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarUnidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoUnidades.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Clientes.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AddendaBosch.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formHorarioCliente.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmIndicadoresCalidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepCalidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteCalidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSellosContenedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmcatDestinos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmConsultaCotizacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCotizador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frm_Cat_Conceptos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Acceso.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AdendaK_N.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AnticiposEspeciales.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmReporteFacPase.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.PaseFacturacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RepCpFecPase.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCPSinFac.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCapturaObservaciones.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteCP.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UltimasCartasPorte.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCliente.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarBitacora.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EnvioStatus.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarCliente.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapUniSiniestradas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesSiniestradas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Alerta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUniRuta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.BitacoraViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambioOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambioOperadorUnidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CargasAsignacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarCarga.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.OperadoresDisponibles.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarPrioridadCargas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CapturaEstadias.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoEquipos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatalogoPersonal.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadias.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CatRutas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarRuta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CaptSeguimientoEmbarques.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Estadisticas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeguimientoEmbarques.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formAlerta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formConfiguracion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEnviarCorreo.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUbica.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmMapaUtilitarios.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepMovUnidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaUtilitarios.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUbicaViajes.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.InputDialog.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SelectorColumnas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorUnidadesRuta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AutorizarOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.HistorialMttoUnidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MonitorMttoPreventivo.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AsignacionOperadores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarReporte.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AgregarCarga.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.BuscadorCargas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.CambiarOperador.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ClavesCelulares.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EscogerReporte.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasIAVE.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FormCasetasPendientesCaptura.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formLiquidaciones.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaEquipos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmOrdenesCompra.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.GenerarPrograma.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresarCarga.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoBooking.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.IngresoFolio.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.InventarioUnidades.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ModificacionMasiva.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.PasesSalida.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ProgramacionDiaria.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteEstatusContenedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ResumenCargas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Reporte_tramo_sencillo.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReProgramacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.RProgramacio.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SeleccionarFechaMod.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.SellosContenedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.UnidadesPatio.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasEvaluacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formClientes.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEmails.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formOperadores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTipoViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCasetasNuevas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.AlertasTramoSencillo.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FormEvaluacionLocal.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEvaluacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionviaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRendEstSuge.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteLocales.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEscogerCiudad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formKilometraje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCasetasViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatCasetas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.FrmCasetasGastos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatFactorAjuste.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmCatRendmientosProm.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDatosViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmDetalleUtilidad.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmGastosViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmReporteReset.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmRepViajesEvaluados.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmUtilidadViajes.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmEvaluacionLocal.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEvaluacionViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formCatGastos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formGastosPorRuta.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formProveedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteGastos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formRutas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formEjecutivos.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposContenedor.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMercancia.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposMovimiento.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTiposProgramacion.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formGuardaContenedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formSeguimiento.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formSolicitudTransporte.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formAgenciaAduanal.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formContenedores.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formTerminales.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formIngresoEIR.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.formReporteEIR.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.frmConsultaDeMov.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteMovimientosUnidades.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.EditarViaje.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.ReporteSalidas.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.MDIPRINC.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Interflet.Resources.resources
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\ProyectoInterflet.vbproj.GenerateResource.Cache
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\RdlCompile.cache
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\RdlCompile.compiled
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.TrustInfo.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe.manifest
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.application
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.exe
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.xml
+\\DAH-171\Users\Analista.Programador\Desktop\InterfletProjects\Version Estable\obj\Debug\Sistema Interflet.pdb
